@@ -5,6 +5,6 @@ import io
 
 def one() :
 	print "hi"
-
+	print "bye"
 
 one()
