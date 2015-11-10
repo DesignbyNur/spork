@@ -3,4 +3,8 @@
 import sys
 import io
 
-define one :
+def one() :
+	print "hi"
+
+
+one()
