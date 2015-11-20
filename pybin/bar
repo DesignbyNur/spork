@@ -1,0 +1,2128 @@
+['./wread.py', 'http://acrdentalartworksinc.com/the-smile-gallery.html']
+> /Users/robroy/pybin/wread.py(64)parseHtml()
+-> parser.feed(page)
+(Pdb) Decl     : DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+Data     : 
+
+Start tag: html
+     attr: ('xmlns', 'http://www.w3.org/1999/xhtml')
+     attr: ('xml:lang', 'en-gb')
+     attr: ('lang', 'en-gb')
+Data     : 
+    
+Start tag: head
+Data     : 
+          
+Start tag: base
+     attr: ('href', 'http://acrdentalartworksinc.com/the-smile-gallery.html')
+End tag  : base
+Data     : 
+  
+Start tag: meta
+     attr: ('http-equiv', 'content-type')
+     attr: ('content', 'text/html; charset=utf-8')
+End tag  : meta
+Data     : 
+  
+Start tag: meta
+     attr: ('name', 'author')
+     attr: ('content', 'Super User')
+End tag  : meta
+Data     : 
+  
+Start tag: meta
+     attr: ('name', 'generator')
+     attr: ('content', 'Joomla! - Open Source Content Management')
+End tag  : meta
+Data     : 
+  
+Start tag: title
+Data     : The Smile Gallery
+End tag  : title
+Data     : 
+  
+Start tag: link
+     attr: ('rel', 'stylesheet')
+     attr: ('href', '/libraries/gantry/css/grid-12.css')
+     attr: ('type', 'text/css')
+End tag  : link
+Data     : 
+  
+Start tag: link
+     attr: ('rel', 'stylesheet')
+     attr: ('href', '/libraries/gantry/css/gantry.css')
+     attr: ('type', 'text/css')
+End tag  : link
+Data     : 
+  
+Start tag: link
+     attr: ('rel', 'stylesheet')
+     attr: ('href', '/libraries/gantry/css/joomla.css')
+     attr: ('type', 'text/css')
+End tag  : link
+Data     : 
+  
+Start tag: link
+     attr: ('rel', 'stylesheet')
+     attr: ('href', '//fonts.googleapis.com/css?family=Ubuntu&subset=latin,latin-ext')
+     attr: ('type', 'text/css')
+End tag  : link
+Data     : 
+  
+Start tag: link
+     attr: ('rel', 'stylesheet')
+     attr: ('href', '/templates/ca_java_j25/css/template.css')
+     attr: ('type', 'text/css')
+End tag  : link
+Data     : 
+  
+Start tag: link
+     attr: ('rel', 'stylesheet')
+     attr: ('href', '/templates/ca_java_j25/css/typography.css')
+     attr: ('type', 'text/css')
+End tag  : link
+Data     : 
+  
+Start tag: link
+     attr: ('rel', 'stylesheet')
+     attr: ('href', '/templates/ca_java_j25/css/fusionmenu.css')
+     attr: ('type', 'text/css')
+End tag  : link
+Data     : 
+  
+Start tag: link
+     attr: ('rel', 'stylesheet')
+     attr: ('href', '/media/system/css/modal.css')
+     attr: ('type', 'text/css')
+End tag  : link
+Data     : 
+  
+Start tag: link
+     attr: ('rel', 'stylesheet')
+     attr: ('href', 'http://acrdentalartworksinc.com/modules/mod_djimageslider/assets/style.css')
+     attr: ('type', 'text/css')
+End tag  : link
+Data     : 
+  
+Start tag: style
+     attr: ('type', 'text/css')
+Data     : 
+h1, h2 { font-family: 'Ubuntu', 'Helvetica', arial, serif; }
+		/* Styles for DJ Image Slider with module id 106 */
+		#djslider-loader106 {
+			margin: 0 auto;
+			position: relative;
+			height: 4590px; 
+			width: 450px;
+		}
+		#djslider106 {
+			margin: 0 auto;
+			position: relative;
+			height: 4590px; 
+			width: 450px;
+			display: none;
+		}
+		#slider-container106 {
+			position: absolute;
+			overflow:hidden;
+			left: 0; 
+			top: 0;
+			height: 4590px; 
+			width: 450px;			
+		}
+		#djslider106 ul#slider106 {
+			margin: 0 !important;
+			padding: 0 !important;
+			border: 0 !important;
+		}
+		#djslider106 ul#slider106 li {
+			list-style: none outside !important;
+			float: left;
+			margin: 0 !important;
+			border: 0 !important;
+			padding: 0 0px 10px 0 !important;
+			position: relative;
+			height: 450px;
+			width: 450px;
+			background: none;
+			overflow: hidden;
+		}
+		#slider106 li img {
+			width: auto;
+			height: 450px;
+			border: 0 !important;
+			margin: 0 !important;
+		}
+		#slider106 li a img, #slider106 li a:hover img {
+			border: 0 !important;
+		}
+		
+		/* Styles for DJ Image Slider with module id 107 */
+		#djslider-loader107 {
+			margin: 0 auto;
+			position: relative;
+			height: 4590px; 
+			width: 450px;
+		}
+		#djslider107 {
+			margin: 0 auto;
+			position: relative;
+			height: 4590px; 
+			width: 450px;
+			display: none;
+		}
+		#slider-container107 {
+			position: absolute;
+			overflow:hidden;
+			left: 0; 
+			top: 0;
+			height: 4590px; 
+			width: 450px;			
+		}
+		#djslider107 ul#slider107 {
+			margin: 0 !important;
+			padding: 0 !important;
+			border: 0 !important;
+		}
+		#djslider107 ul#slider107 li {
+			list-style: none outside !important;
+			float: left;
+			margin: 0 !important;
+			border: 0 !important;
+			padding: 0 0px 10px 0 !important;
+			position: relative;
+			height: 450px;
+			width: 450px;
+			background: none;
+			overflow: hidden;
+		}
+		#slider107 li img {
+			width: auto;
+			height: 450px;
+			border: 0 !important;
+			margin: 0 !important;
+		}
+		#slider107 li a img, #slider107 li a:hover img {
+			border: 0 !important;
+		}
+		
+		/* Slide description area */
+		#slider107 .slide-desc {
+			position: absolute;
+			bottom: 10px;
+			left: 100px;
+			width: 450px;
+		}
+		#slider107 .slide-desc-in {
+			position: relative;
+		}
+		#slider107 .slide-desc-bg {
+			position:absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+		#slider107 .slide-desc-text {
+			position: relative;
+		}
+		#slider107 .slide-desc-text h3 {
+			display: block !important;
+		}
+		
+  
+End tag  : style
+Data     : 
+  
+Start tag: script
+     attr: ('src', '/media/system/js/mootools-core.js')
+     attr: ('type', 'text/javascript')
+End tag  : script
+Data     : 
+  
+Start tag: script
+     attr: ('src', '/media/system/js/core.js')
+     attr: ('type', 'text/javascript')
+End tag  : script
+Data     : 
+  
+Start tag: script
+     attr: ('src', '/media/system/js/caption.js')
+     attr: ('type', 'text/javascript')
+End tag  : script
+Data     : 
+  
+Start tag: script
+     attr: ('src', '/media/system/js/mootools-more.js')
+     attr: ('type', 'text/javascript')
+End tag  : script
+Data     : 
+  
+Start tag: script
+     attr: ('src', '/templates/ca_java_j25/js/gantry-totop.js')
+     attr: ('type', 'text/javascript')
+End tag  : script
+Data     : 
+  
+Start tag: script
+     attr: ('src', '/libraries/gantry/js/browser-engines.js')
+     attr: ('type', 'text/javascript')
+End tag  : script
+Data     : 
+  
+Start tag: script
+     attr: ('src', '/modules/mod_roknavmenu/themes/fusion/js/fusion.js')
+     attr: ('type', 'text/javascript')
+End tag  : script
+Data     : 
+  
+Start tag: script
+     attr: ('src', '/media/system/js/modal.js')
+     attr: ('type', 'text/javascript')
+End tag  : script
+Data     : 
+  
+Start tag: script
+     attr: ('src', '/modules/mod_djimageslider/assets/slider.js')
+     attr: ('type', 'text/javascript')
+End tag  : script
+Data     : 
+  
+Start tag: script
+     attr: ('type', 'text/javascript')
+Data     : 
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-33982853-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	            window.addEvent('domready', function() {
+                new Fusion('ul.menutop', {
+                    pill: 0,
+                    effect: 'slide and fade',
+                    opacity:  1,
+                    hideDelay:  500,
+                    centered:  0,
+                    tweakInitial: {'x': -10, 'y': -13},
+                    tweakSubsequent: {'x':  0, 'y':  0},
+                    tweakSizes: {'width': 20, 'height': 20},
+                    menuFx: {duration:  300, transition: Fx.Transitions.Circ.easeOut},
+                    pillFx: {duration:  400, transition: Fx.Transitions.Back.easeOut}
+                });
+            });
+            
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});(function($){ window.addEvent('domready',function(){this.Slider106 = new DJImageSlider({id: '106', slider_type: 1, slide_size: 460, visible_slides: 9, show_buttons: 0, show_arrows: 0, preload: 800},{auto: 0, transition: Fx.Transitions.Cubic.easeInOut, duration: 800, delay: 3800})}); })(document.id);(function($){ window.addEvent('domready',function(){this.Slider107 = new DJImageSlider({id: '107', slider_type: 1, slide_size: 460, visible_slides: 9, show_buttons: 0, show_arrows: 0, preload: 800},{auto: 0, transition: Fx.Transitions.Cubic.easeInOut, duration: 800, delay: 3800})}); })(document.id);
+  
+End tag  : script
+Data     : 
+        
+Start tag: link
+     attr: ('href', '//fonts.googleapis.com/css?family=Ubuntu:regular')
+     attr: ('rel', 'stylesheet')
+     attr: ('type', 'text/css')
+End tag  : link
+Data     : 
+    
+End tag  : head
+Data     : 
+    
+Start tag: body
+     attr: ('class', 'font-family-ubuntu font-size-is-default menu-type-fusionmenu col12')
+Data     : 
+    	
+Start tag: a
+     attr: ('name', 'pageTop')
+     attr: ('id', 'pageTop')
+End tag  : a
+Data     : 
+    	
+Start tag: div
+     attr: ('id', 'page-wraper')
+Data     : 
+    		
+Start tag: div
+     attr: ('id', 'in-page-wraper')
+Data     : 
+    			
+Start tag: div
+     attr: ('id', 'in-page-wraper-2')
+Data     : 
+			        										
+Start tag: div
+     attr: ('id', 'rt-top')
+Data     : 
+						
+Start tag: div
+     attr: ('class', 'rt-container')
+Data     : 
+							
+Start tag: div
+     attr: ('class', 'rt-grid-6 rt-alpha')
+Data     : 
+                    
+Start tag: div
+     attr: ('class', 'module-outline-1')
+Data     : 
+        	
+Start tag: div
+     attr: ('class', 'module-outline-2')
+Data     : 
+            	
+Start tag: div
+     attr: ('class', 'rt-block equalsTopContent')
+Data     : 
+            	                	    
+Start tag: div
+     attr: ('class', 'module-content')
+Data     : 
+            	    	
+Start tag: div
+     attr: ('class', 'in-module-content')
+Data     : 
+            	    		
+
+
+Start tag: div
+     attr: ('class', 'custom')
+Data     : 
+	
+Start tag: p
+Start tag: a
+     attr: ('href', 'http://acrdentalartworksinc.com')
+Data     : 
+
+Start tag: p
+Start tag: img
+     attr: ('src', '/images/ACR-Logo.png')
+     attr: ('alt', 'ACR Dental Artworks Logo')
+     attr: ('border', '0')
+End tag  : img
+End tag  : p
+Data     : 
+
+End tag  : a
+End tag  : p
+End tag  : div
+Data     : 
+            	    	
+End tag  : div
+Data     : 
+            	    
+End tag  : div
+Data     : 
+            	
+End tag  : div
+Data     : 
+            
+End tag  : div
+Data     : 
+        
+End tag  : div
+Data     : 
+        	
+
+End tag  : div
+Data     : 
+
+Start tag: div
+     attr: ('class', 'rt-grid-6 rt-omega')
+Data     : 
+                    
+Start tag: div
+     attr: ('class', 'module-outline-1')
+Data     : 
+        	
+Start tag: div
+     attr: ('class', 'module-outline-2')
+Data     : 
+            	
+Start tag: div
+     attr: ('class', 'rt-block equalsTopContent')
+Data     : 
+            	                	    
+Start tag: div
+     attr: ('class', 'module-content')
+Data     : 
+            	    	
+Start tag: div
+     attr: ('class', 'in-module-content')
+Data     : 
+            	    		
+
+
+Start tag: div
+     attr: ('class', 'custom')
+Data     : 
+	
+Start tag: p
+     attr: ('style', 'text-align: center;')
+Named ent: nbsp
+End tag  : p
+Data     : 
+
+Start tag: p
+     attr: ('style', 'text-align: center;')
+Start tag: span
+     attr: ('style', 'color: #ffffff;')
+Named ent: nbsp
+End tag  : span
+End tag  : p
+Data     : 
+
+Start tag: p
+     attr: ('style', 'text-align: center;')
+Start tag: span
+     attr: ('style', 'color: #ffffff; font-size: 18pt;')
+Start tag: strong
+Start tag: span
+     attr: ('style', 'font-family: georgia, palatino;')
+Data     : (816) 350-8533
+End tag  : span
+End tag  : strong
+End tag  : span
+End tag  : p
+Data     : 
+
+Start tag: p
+     attr: ('style', 'text-align: center;')
+Start tag: span
+     attr: ('style', 'color: #ffffff; font-size: 18pt;')
+Start tag: strong
+Start tag: span
+     attr: ('style', 'font-family: georgia, palatino;')
+Data     : Lee's summit, MO 64064
+End tag  : span
+End tag  : strong
+End tag  : span
+End tag  : p
+Data     : 
+
+Start tag: p
+     attr: ('style', 'text-align: center;')
+Start tag: span
+     attr: ('style', 'font-size: 18pt; color: #0000ff;')
+Start tag: a
+     attr: ('href', 'mailto:offic@acrdentalartworks.com?subject=Website:')
+     attr: ('target', '_blank')
+Start tag: span
+     attr: ('style', 'color: #0000ff;')
+Data     : office@acrdentalartworks.com
+End tag  : span
+End tag  : a
+End tag  : span
+End tag  : p
+End tag  : div
+Data     : 
+            	    	
+End tag  : div
+Data     : 
+            	    
+End tag  : div
+Data     : 
+            	
+End tag  : div
+Data     : 
+            
+End tag  : div
+Data     : 
+        
+End tag  : div
+Data     : 
+        	
+
+End tag  : div
+Data     : 
+							
+Start tag: div
+     attr: ('class', 'clear')
+End tag  : div
+Data     : 
+						
+End tag  : div
+Data     : 
+					
+End tag  : div
+Data     : 
+																				
+Start tag: div
+     attr: ('id', 'contentBgPattern')
+Data     : 
+												
+Start tag: div
+     attr: ('id', 'rt-menu')
+Data     : 
+							
+Start tag: div
+     attr: ('class', 'rt-container')
+Data     : 
+								
+Start tag: div
+     attr: ('class', 'rt-fusionmenu')
+Data     : 
+
+Start tag: div
+     attr: ('class', 'nopill')
+Data     : 
+
+Start tag: div
+     attr: ('class', 'rt-menubar')
+Data     : 
+    
+Start tag: ul
+     attr: ('class', 'menutop level1 ')
+Data     : 
+                        
+Start tag: li
+     attr: ('class', 'item435 root')
+Data     : 
+                            
+Start tag: a
+     attr: ('class', 'orphan item bullet')
+     attr: ('href', 'http://acrdentalartworksinc.com/')
+Data     : 
+                    
+Start tag: span
+Data     : 
+                                        Home                                                            
+End tag  : span
+Data     : 
+                
+End tag  : a
+Data     : 
+            
+                    
+End tag  : li
+Data     : 
+                                
+Start tag: li
+     attr: ('class', 'item483 parent root')
+Data     : 
+                            
+Start tag: a
+     attr: ('class', 'daddy item bullet')
+     attr: ('href', '/our-services.html')
+Data     : 
+                    
+Start tag: span
+Data     : 
+                                        Our Services                                                            
+Start tag: span
+     attr: ('class', 'daddyicon')
+End tag  : span
+Data     : 
+                                        
+End tag  : span
+Data     : 
+                
+End tag  : a
+Data     : 
+            
+                                                
+Start tag: div
+     attr: ('class', 'fusion-submenu-wrapper level2')
+     attr: ('style', 'width:180px;')
+Data     : 
+                        
+                        
+Start tag: ul
+     attr: ('class', 'level2')
+     attr: ('style', 'width:180px;')
+Data     : 
+                                                                                                        
+Start tag: li
+     attr: ('class', 'item484')
+Data     : 
+                            
+Start tag: a
+     attr: ('class', 'orphan item bullet')
+     attr: ('href', '/our-services/all-glass.html')
+Data     : 
+                    
+Start tag: span
+Data     : 
+                                        All Glass                                                            
+End tag  : span
+Data     : 
+                
+End tag  : a
+Data     : 
+            
+                    
+End tag  : li
+Data     : 
+                                                                                                                                                
+Start tag: li
+     attr: ('class', 'item485')
+Data     : 
+                            
+Start tag: a
+     attr: ('class', 'orphan item bullet')
+     attr: ('href', '/our-services/belleglass-hp.html')
+Data     : 
+                    
+Start tag: span
+Data     : 
+                                        Belleglass HP                                                            
+End tag  : span
+Data     : 
+                
+End tag  : a
+Data     : 
+            
+                    
+End tag  : li
+Data     : 
+                                                                                                                                                
+Start tag: li
+     attr: ('class', 'item486')
+Data     : 
+                            
+Start tag: a
+     attr: ('class', 'orphan item bullet')
+     attr: ('href', '/our-services/case-planning.html')
+Data     : 
+                    
+Start tag: span
+Data     : 
+                                        Case Planning                                                            
+End tag  : span
+Data     : 
+                
+End tag  : a
+Data     : 
+            
+                    
+End tag  : li
+Data     : 
+                                                                                                                                                
+Start tag: li
+     attr: ('class', 'item487')
+Data     : 
+                            
+Start tag: a
+     attr: ('class', 'orphan item bullet')
+     attr: ('href', '/our-services/ceramics.html')
+Data     : 
+                    
+Start tag: span
+Data     : 
+                                        Ceramics                                                            
+End tag  : span
+Data     : 
+                
+End tag  : a
+Data     : 
+            
+                    
+End tag  : li
+Data     : 
+                                                                                                                                                
+Start tag: li
+     attr: ('class', 'item489')
+Data     : 
+                            
+Start tag: a
+     attr: ('class', 'orphan item bullet')
+     attr: ('href', '/our-services/full-cast-crown-and-bridge.html')
+Data     : 
+                    
+Start tag: span
+Data     : 
+                                        Full Cast Crown and Bridge                                                            
+End tag  : span
+Data     : 
+                
+End tag  : a
+Data     : 
+            
+                    
+End tag  : li
+Data     : 
+                                                                                                                                                
+Start tag: li
+     attr: ('class', 'item490')
+Data     : 
+                            
+Start tag: a
+     attr: ('class', 'orphan item bullet')
+     attr: ('href', '/our-services/implants.html')
+Data     : 
+                    
+Start tag: span
+Data     : 
+                                        Implants                                                            
+End tag  : span
+Data     : 
+                
+End tag  : a
+Data     : 
+            
+                    
+End tag  : li
+Data     : 
+                                                                                                                                                
+Start tag: li
+     attr: ('class', 'item488')
+Data     : 
+                            
+Start tag: a
+     attr: ('class', 'orphan item bullet')
+     attr: ('href', '/our-services/custom-shades.html')
+Data     : 
+                    
+Start tag: span
+Data     : 
+                                        Custom Shades                                                            
+End tag  : span
+Data     : 
+                
+End tag  : a
+Data     : 
+            
+                    
+End tag  : li
+Data     : 
+                                                                                                                                                
+Start tag: li
+     attr: ('class', 'item503')
+Data     : 
+                            
+Start tag: a
+     attr: ('class', 'orphan item bullet')
+     attr: ('href', '/our-services/full-partial-dentures.html')
+Data     : 
+                    
+Start tag: span
+Data     : 
+                                        Full/Partial Dentures                                                            
+End tag  : span
+Data     : 
+                
+End tag  : a
+Data     : 
+            
+                    
+End tag  : li
+Data     : 
+                                                                                            
+End tag  : ul
+Data     : 
+
+                                                
+Start tag: div
+     attr: ('class', 'drop-bot')
+End tag  : div
+Data     : 
+                    
+End tag  : div
+Data     : 
+                                    
+End tag  : li
+Data     : 
+                                
+Start tag: li
+     attr: ('class', 'item496 active root')
+Data     : 
+                            
+Start tag: a
+     attr: ('class', 'orphan item bullet')
+     attr: ('href', '/the-smile-gallery.html')
+Data     : 
+                    
+Start tag: span
+Data     : 
+                                        The Smile Gallery                                                            
+End tag  : span
+Data     : 
+                
+End tag  : a
+Data     : 
+            
+                    
+End tag  : li
+Data     : 
+                                
+Start tag: li
+     attr: ('class', 'item492 root')
+Data     : 
+                            
+Start tag: a
+     attr: ('class', 'orphan item bullet')
+     attr: ('href', '/client-testimonials.html')
+Data     : 
+                    
+Start tag: span
+Data     : 
+                                        Client Testimonials                                                            
+End tag  : span
+Data     : 
+                
+End tag  : a
+Data     : 
+            
+                    
+End tag  : li
+Data     : 
+                                
+Start tag: li
+     attr: ('class', 'item491 parent root')
+Data     : 
+                            
+Start tag: a
+     attr: ('class', 'daddy item bullet')
+     attr: ('href', '/about-acr-dental-artworks.html')
+Data     : 
+                    
+Start tag: span
+Data     : 
+                                        About ACR Dental Artworks                                                            
+Start tag: span
+     attr: ('class', 'daddyicon')
+End tag  : span
+Data     : 
+                                        
+End tag  : span
+Data     : 
+                
+End tag  : a
+Data     : 
+            
+                                                
+Start tag: div
+     attr: ('class', 'fusion-submenu-wrapper level2')
+     attr: ('style', 'width:180px;')
+Data     : 
+                        
+                        
+Start tag: ul
+     attr: ('class', 'level2')
+     attr: ('style', 'width:180px;')
+Data     : 
+                                                                                                        
+Start tag: li
+     attr: ('class', 'item493')
+Data     : 
+                            
+Start tag: a
+     attr: ('class', 'orphan item bullet')
+     attr: ('href', '/about-acr-dental-artworks/the-acr-difference.html')
+Data     : 
+                    
+Start tag: span
+Data     : 
+                                        The ACR Difference                                                            
+End tag  : span
+Data     : 
+                
+End tag  : a
+Data     : 
+            
+                    
+End tag  : li
+Data     : 
+                                                                                                                                                
+Start tag: li
+     attr: ('class', 'item494')
+Data     : 
+                            
+Start tag: a
+     attr: ('class', 'orphan item bullet')
+     attr: ('href', '/about-acr-dental-artworks/acr-management-team.html')
+Data     : 
+                    
+Start tag: span
+Data     : 
+                                        ACR Management Team                                                            
+End tag  : span
+Data     : 
+                
+End tag  : a
+Data     : 
+            
+                    
+End tag  : li
+Data     : 
+                                                                                            
+End tag  : ul
+Data     : 
+
+                                                
+Start tag: div
+     attr: ('class', 'drop-bot')
+End tag  : div
+Data     : 
+                    
+End tag  : div
+Data     : 
+                                    
+End tag  : li
+Data     : 
+                                
+Start tag: li
+     attr: ('class', 'item504 root')
+Data     : 
+                            
+Start tag: a
+     attr: ('class', 'orphan item bullet')
+     attr: ('href', '/contact-us.html')
+Data     : 
+                    
+Start tag: span
+Data     : 
+                                        Contact Us                                                            
+End tag  : span
+Data     : 
+                
+End tag  : a
+Data     : 
+            
+                    
+End tag  : li
+Data     : 
+                    
+End tag  : ul
+Data     : 
+
+End tag  : div
+Data     : 
+
+End tag  : div
+Data     : 
+
+End tag  : div
+Data     : 
+								
+Start tag: div
+     attr: ('class', 'clear')
+End tag  : div
+Data     : 
+							
+End tag  : div
+Data     : 
+						
+End tag  : div
+Data     : 
+																								
+Start tag: div
+     attr: ('id', 'rt-utility')
+Data     : 
+							
+Start tag: div
+     attr: ('class', 'rt-container')
+Data     : 
+								
+Start tag: div
+     attr: ('class', 'rt-grid-6 rt-alpha')
+Data     : 
+    		
+	
+Start tag: div
+     attr: ('id', 'djslider-loader107')
+     attr: ('class', 'djslider-loader')
+Data     : 
+    
+Start tag: div
+     attr: ('id', 'djslider107')
+     attr: ('class', 'djslider')
+Data     : 
+        
+Start tag: div
+     attr: ('id', 'slider-container107')
+     attr: ('class', 'slider-container')
+Data     : 
+        	
+Start tag: ul
+     attr: ('id', 'slider107')
+Data     : 
+          		          			
+Start tag: li
+Data     : 
+            										
+Start tag: a
+     attr: ('class', 'modal')
+     attr: ('href', '/images/OurImages/1agallery.png')
+     attr: ('target', '_self')
+Data     : 
+													
+Start tag: img
+     attr: ('src', '/images/OurImages/1agallery.png')
+     attr: ('alt', 'Smiles 1')
+End tag  : img
+Data     : 
+													
+End tag  : a
+Data     : 
+												
+												
+Comment  :  Slide description area: START 
+Data     : 
+						
+Start tag: div
+     attr: ('class', 'slide-desc')
+Data     : 
+						  
+Start tag: div
+     attr: ('class', 'slide-desc-in')
+Data     : 	
+							
+Start tag: div
+     attr: ('class', 'slide-desc-bg')
+End tag  : div
+Data     : 
+							
+Start tag: div
+     attr: ('class', 'slide-desc-text')
+Data     : 
+														
+															
+Start tag: div
+     attr: ('class', 'slide-text')
+Data     : 
+																			
+Start tag: p
+Data     : Layered Empress
+End tag  : p
+Data     : 																	
+End tag  : div
+Data     : 
+														
+														
+Start tag: div
+     attr: ('style', 'clear: both')
+End tag  : div
+Data     : 
+							
+End tag  : div
+Data     : 
+						  
+End tag  : div
+Data     : 
+						
+End tag  : div
+Data     : 
+						
+Comment  :  Slide description area: END 
+Data     : 
+												
+						
+					
+End tag  : li
+Data     : 
+                          			
+Start tag: li
+Data     : 
+            										
+Start tag: a
+     attr: ('class', 'modal')
+     attr: ('href', '/images/2agallery.png')
+     attr: ('target', '_self')
+Data     : 
+													
+Start tag: img
+     attr: ('src', '/images/2agallery.png')
+     attr: ('alt', 'Smiles 2')
+End tag  : img
+Data     : 
+													
+End tag  : a
+Data     : 
+												
+												
+Comment  :  Slide description area: START 
+Data     : 
+						
+Start tag: div
+     attr: ('class', 'slide-desc')
+Data     : 
+						  
+Start tag: div
+     attr: ('class', 'slide-desc-in')
+Data     : 	
+							
+Start tag: div
+     attr: ('class', 'slide-desc-bg')
+End tag  : div
+Data     : 
+							
+Start tag: div
+     attr: ('class', 'slide-desc-text')
+Data     : 
+														
+															
+Start tag: div
+     attr: ('class', 'slide-text')
+Data     : 
+																			
+Start tag: p
+Data     : Layered Empress
+End tag  : p
+Data     : 																	
+End tag  : div
+Data     : 
+														
+														
+Start tag: div
+     attr: ('style', 'clear: both')
+End tag  : div
+Data     : 
+							
+End tag  : div
+Data     : 
+						  
+End tag  : div
+Data     : 
+						
+End tag  : div
+Data     : 
+						
+Comment  :  Slide description area: END 
+Data     : 
+												
+						
+					
+End tag  : li
+Data     : 
+                          			
+Start tag: li
+Data     : 
+            										
+Start tag: a
+     attr: ('class', 'modal')
+     attr: ('href', '/images/OurImages/4agallery.png')
+     attr: ('target', '_self')
+Data     : 
+													
+Start tag: img
+     attr: ('src', '/images/OurImages/4agallery.png')
+     attr: ('alt', 'Smiles 4')
+End tag  : img
+Data     : 
+													
+End tag  : a
+Data     : 
+												
+												
+Comment  :  Slide description area: START 
+Data     : 
+						
+Start tag: div
+     attr: ('class', 'slide-desc')
+Data     : 
+						  
+Start tag: div
+     attr: ('class', 'slide-desc-in')
+Data     : 	
+							
+Start tag: div
+     attr: ('class', 'slide-desc-bg')
+End tag  : div
+Data     : 
+							
+Start tag: div
+     attr: ('class', 'slide-desc-text')
+Data     : 
+														
+															
+Start tag: div
+     attr: ('class', 'slide-text')
+Data     : 
+																			
+Start tag: p
+Data     : Layered PFM
+End tag  : p
+Data     : 																	
+End tag  : div
+Data     : 
+														
+														
+Start tag: div
+     attr: ('style', 'clear: both')
+End tag  : div
+Data     : 
+							
+End tag  : div
+Data     : 
+						  
+End tag  : div
+Data     : 
+						
+End tag  : div
+Data     : 
+						
+Comment  :  Slide description area: END 
+Data     : 
+												
+						
+					
+End tag  : li
+Data     : 
+                          			
+Start tag: li
+Data     : 
+            										
+Start tag: a
+     attr: ('class', 'modal')
+     attr: ('href', '/images/OurImages/6agallery.png')
+     attr: ('target', '_self')
+Data     : 
+													
+Start tag: img
+     attr: ('src', '/images/OurImages/6agallery.png')
+     attr: ('alt', 'Smiles 6')
+End tag  : img
+Data     : 
+													
+End tag  : a
+Data     : 
+												
+												
+Comment  :  Slide description area: START 
+Data     : 
+						
+Start tag: div
+     attr: ('class', 'slide-desc')
+Data     : 
+						  
+Start tag: div
+     attr: ('class', 'slide-desc-in')
+Data     : 	
+							
+Start tag: div
+     attr: ('class', 'slide-desc-bg')
+End tag  : div
+Data     : 
+							
+Start tag: div
+     attr: ('class', 'slide-desc-text')
+Data     : 
+														
+															
+Start tag: div
+     attr: ('class', 'slide-text')
+Data     : 
+																			
+Start tag: p
+Data     : Stained Empress
+End tag  : p
+Data     : 																	
+End tag  : div
+Data     : 
+														
+														
+Start tag: div
+     attr: ('style', 'clear: both')
+End tag  : div
+Data     : 
+							
+End tag  : div
+Data     : 
+						  
+End tag  : div
+Data     : 
+						
+End tag  : div
+Data     : 
+						
+Comment  :  Slide description area: END 
+Data     : 
+												
+						
+					
+End tag  : li
+Data     : 
+                          			
+Start tag: li
+Data     : 
+            										
+Start tag: a
+     attr: ('class', 'modal')
+     attr: ('href', '/images/7agallery.png')
+     attr: ('target', '_self')
+Data     : 
+													
+Start tag: img
+     attr: ('src', '/images/7agallery.png')
+     attr: ('alt', 'Smiles 7')
+End tag  : img
+Data     : 
+													
+End tag  : a
+Data     : 
+												
+												
+Comment  :  Slide description area: START 
+Data     : 
+						
+Start tag: div
+     attr: ('class', 'slide-desc')
+Data     : 
+						  
+Start tag: div
+     attr: ('class', 'slide-desc-in')
+Data     : 	
+							
+Start tag: div
+     attr: ('class', 'slide-desc-bg')
+End tag  : div
+Data     : 
+							
+Start tag: div
+     attr: ('class', 'slide-desc-text')
+Data     : 
+														
+															
+Start tag: div
+     attr: ('class', 'slide-text')
+Data     : 
+																			
+Start tag: p
+Data     : Stained Empress - Befor(top right) and After(left)
+End tag  : p
+Data     : 																	
+End tag  : div
+Data     : 
+														
+														
+Start tag: div
+     attr: ('style', 'clear: both')
+End tag  : div
+Data     : 
+							
+End tag  : div
+Data     : 
+						  
+End tag  : div
+Data     : 
+						
+End tag  : div
+Data     : 
+						
+Comment  :  Slide description area: END 
+Data     : 
+												
+						
+					
+End tag  : li
+Data     : 
+                          			
+Start tag: li
+Data     : 
+            										
+Start tag: a
+     attr: ('class', 'modal')
+     attr: ('href', '/images/OurImages/9agallery.png')
+     attr: ('target', '_self')
+Data     : 
+													
+Start tag: img
+     attr: ('src', '/images/OurImages/9agallery.png')
+     attr: ('alt', 'Smiles 9')
+End tag  : img
+Data     : 
+													
+End tag  : a
+Data     : 
+												
+												
+Comment  :  Slide description area: START 
+Data     : 
+						
+Start tag: div
+     attr: ('class', 'slide-desc')
+Data     : 
+						  
+Start tag: div
+     attr: ('class', 'slide-desc-in')
+Data     : 	
+							
+Start tag: div
+     attr: ('class', 'slide-desc-bg')
+End tag  : div
+Data     : 
+							
+Start tag: div
+     attr: ('class', 'slide-desc-text')
+Data     : 
+														
+															
+Start tag: div
+     attr: ('class', 'slide-text')
+Data     : 
+																			
+Start tag: p
+Data     : Layered PFM
+End tag  : p
+Data     : 																	
+End tag  : div
+Data     : 
+														
+														
+Start tag: div
+     attr: ('style', 'clear: both')
+End tag  : div
+Data     : 
+							
+End tag  : div
+Data     : 
+						  
+End tag  : div
+Data     : 
+						
+End tag  : div
+Data     : 
+						
+Comment  :  Slide description area: END 
+Data     : 
+												
+						
+					
+End tag  : li
+Data     : 
+                          			
+Start tag: li
+Data     : 
+            										
+Start tag: a
+     attr: ('class', 'modal')
+     attr: ('href', '/images/OurImages/10agallery.png')
+     attr: ('target', '_self')
+Data     : 
+													
+Start tag: img
+     attr: ('src', '/images/OurImages/10agallery.png')
+     attr: ('alt', 'Smiles 10')
+End tag  : img
+Data     : 
+													
+End tag  : a
+Data     : 
+												
+												
+Comment  :  Slide description area: START 
+Data     : 
+						
+Start tag: div
+     attr: ('class', 'slide-desc')
+Data     : 
+						  
+Start tag: div
+     attr: ('class', 'slide-desc-in')
+Data     : 	
+							
+Start tag: div
+     attr: ('class', 'slide-desc-bg')
+End tag  : div
+Data     : 
+							
+Start tag: div
+     attr: ('class', 'slide-desc-text')
+Data     : 
+														
+															
+Start tag: div
+     attr: ('class', 'slide-text')
+Data     : 
+																			
+Start tag: p
+Data     : Layered PFM
+End tag  : p
+Data     : 																	
+End tag  : div
+Data     : 
+														
+														
+Start tag: div
+     attr: ('style', 'clear: both')
+End tag  : div
+Data     : 
+							
+End tag  : div
+Data     : 
+						  
+End tag  : div
+Data     : 
+						
+End tag  : div
+Data     : 
+						
+Comment  :  Slide description area: END 
+Data     : 
+												
+						
+					
+End tag  : li
+Data     : 
+                          			
+Start tag: li
+Data     : 
+            										
+Start tag: a
+     attr: ('class', 'modal')
+     attr: ('href', '/images/OurImages/21gallery.png')
+     attr: ('target', '_self')
+Data     : 
+													
+Start tag: img
+     attr: ('src', '/images/OurImages/21gallery.png')
+     attr: ('alt', 'Smiles 21')
+End tag  : img
+Data     : 
+													
+End tag  : a
+Data     : 
+												
+												
+						
+					
+End tag  : li
+Data     : 
+                          			
+Start tag: li
+Data     : 
+            										
+Start tag: a
+     attr: ('class', 'modal')
+     attr: ('href', '/images/OurImages/24gallery.png')
+     attr: ('target', '_self')
+Data     : 
+													
+Start tag: img
+     attr: ('src', '/images/OurImages/24gallery.png')
+     attr: ('alt', 'Smiles 24')
+End tag  : img
+Data     : 
+													
+End tag  : a
+Data     : 
+												
+												
+						
+					
+End tag  : li
+Data     : 
+                        	
+End tag  : ul
+Data     : 
+        
+End tag  : div
+Data     : 
+                    
+End tag  : div
+Data     : 
+	
+End tag  : div
+Data     : 
+	
+	
+Start tag: div
+     attr: ('style', 'clear: both')
+End tag  : div
+Data     : 	
+
+End tag  : div
+Data     : 
+
+Start tag: div
+     attr: ('class', 'rt-grid-6 rt-omega')
+Data     : 
+    		
+	
+Start tag: div
+     attr: ('id', 'djslider-loader106')
+     attr: ('class', 'djslider-loader')
+Data     : 
+    
+Start tag: div
+     attr: ('id', 'djslider106')
+     attr: ('class', 'djslider')
+Data     : 
+        
+Start tag: div
+     attr: ('id', 'slider-container106')
+     attr: ('class', 'slider-container')
+Data     : 
+        	
+Start tag: ul
+     attr: ('id', 'slider106')
+Data     : 
+          		          			
+Start tag: li
+Data     : 
+            										
+Start tag: a
+     attr: ('class', 'modal')
+     attr: ('href', '/images/11gallery.png')
+     attr: ('target', '_self')
+Data     : 
+													
+Start tag: img
+     attr: ('src', '/images/11gallery.png')
+     attr: ('alt', 'Smiles 11')
+End tag  : img
+Data     : 
+													
+End tag  : a
+Data     : 
+												
+												
+						
+					
+End tag  : li
+Data     : 
+                          			
+Start tag: li
+Data     : 
+            										
+Start tag: a
+     attr: ('class', 'modal')
+     attr: ('href', '/images/12gallery.png')
+     attr: ('target', '_self')
+Data     : 
+													
+Start tag: img
+     attr: ('src', '/images/12gallery.png')
+     attr: ('alt', 'Smiles 12')
+End tag  : img
+Data     : 
+													
+End tag  : a
+Data     : 
+												
+												
+						
+					
+End tag  : li
+Data     : 
+                          			
+Start tag: li
+Data     : 
+            										
+Start tag: a
+     attr: ('class', 'modal')
+     attr: ('href', '/images/OurImages/13gallery.png')
+     attr: ('target', '_self')
+Data     : 
+													
+Start tag: img
+     attr: ('src', '/images/OurImages/13gallery.png')
+     attr: ('alt', 'Smiles 13')
+End tag  : img
+Data     : 
+													
+End tag  : a
+Data     : 
+												
+												
+						
+					
+End tag  : li
+Data     : 
+                          			
+Start tag: li
+Data     : 
+            										
+Start tag: a
+     attr: ('class', 'modal')
+     attr: ('href', '/images/OurImages/14gallery.png')
+     attr: ('target', '_self')
+Data     : 
+													
+Start tag: img
+     attr: ('src', '/images/OurImages/14gallery.png')
+     attr: ('alt', 'Smiles 14')
+End tag  : img
+Data     : 
+													
+End tag  : a
+Data     : 
+												
+												
+						
+					
+End tag  : li
+Data     : 
+                          			
+Start tag: li
+Data     : 
+            										
+Start tag: a
+     attr: ('class', 'modal')
+     attr: ('href', '/images/OurImages/15gallery.png')
+     attr: ('target', '_self')
+Data     : 
+													
+Start tag: img
+     attr: ('src', '/images/OurImages/15gallery.png')
+     attr: ('alt', 'Smiles 15')
+End tag  : img
+Data     : 
+													
+End tag  : a
+Data     : 
+												
+												
+						
+					
+End tag  : li
+Data     : 
+                          			
+Start tag: li
+Data     : 
+            										
+Start tag: a
+     attr: ('class', 'modal')
+     attr: ('href', '/images/OurImages/16gallery.png')
+     attr: ('target', '_self')
+Data     : 
+													
+Start tag: img
+     attr: ('src', '/images/OurImages/16gallery.png')
+     attr: ('alt', 'Smiles16')
+End tag  : img
+Data     : 
+													
+End tag  : a
+Data     : 
+												
+												
+						
+					
+End tag  : li
+Data     : 
+                          			
+Start tag: li
+Data     : 
+            										
+Start tag: a
+     attr: ('class', 'modal')
+     attr: ('href', '/images/OurImages/17gallery.png')
+     attr: ('target', '_self')
+Data     : 
+													
+Start tag: img
+     attr: ('src', '/images/OurImages/17gallery.png')
+     attr: ('alt', 'Smiles 17')
+End tag  : img
+Data     : 
+													
+End tag  : a
+Data     : 
+												
+												
+						
+					
+End tag  : li
+Data     : 
+                          			
+Start tag: li
+Data     : 
+            										
+Start tag: a
+     attr: ('class', 'modal')
+     attr: ('href', '/images/OurImages/20gallery.png')
+     attr: ('target', '_self')
+Data     : 
+													
+Start tag: img
+     attr: ('src', '/images/OurImages/20gallery.png')
+     attr: ('alt', 'Smiles 20')
+End tag  : img
+Data     : 
+													
+End tag  : a
+Data     : 
+												
+												
+						
+					
+End tag  : li
+Data     : 
+                          			
+Start tag: li
+Data     : 
+            										
+Start tag: a
+     attr: ('class', 'modal')
+     attr: ('href', '/images/Empress-5-smile.jpg')
+     attr: ('target', '_self')
+Data     : 
+													
+Start tag: img
+     attr: ('src', '/images/Empress-5-smile.jpg')
+     attr: ('alt', 'Smiles 5')
+End tag  : img
+Data     : 
+													
+End tag  : a
+Data     : 
+												
+												
+						
+					
+End tag  : li
+Data     : 
+                        	
+End tag  : ul
+Data     : 
+        
+End tag  : div
+Data     : 
+                    
+End tag  : div
+Data     : 
+	
+End tag  : div
+Data     : 
+	
+	
+Start tag: div
+     attr: ('style', 'clear: both')
+End tag  : div
+Data     : 	
+
+End tag  : div
+Data     : 
+								
+Start tag: div
+     attr: ('class', 'clear')
+End tag  : div
+Data     : 
+							
+End tag  : div
+Data     : 
+						
+End tag  : div
+Data     : 
+																													              
+
+Start tag: div
+     attr: ('id', 'rt-main')
+     attr: ('class', 'mb12')
+Data     : 
+                
+Start tag: div
+     attr: ('class', 'rt-container')
+Data     : 
+                    
+Start tag: div
+     attr: ('class', 'rt-grid-12 ')
+Data     : 
+                                                
+Start tag: div
+     attr: ('id', 'rt-content-top')
+Data     : 
+                                                    
+End tag  : div
+Data     : 
+                                                						
+Start tag: div
+     attr: ('class', 'rt-block')
+Data     : 
+	                        
+Start tag: div
+     attr: ('id', 'rt-mainbody')
+Data     : 
+								
+Start tag: div
+     attr: ('class', 'component-content')
+Data     : 
+	                            	
+Start tag: div
+     attr: ('class', 'rt-article')
+Start tag: div
+     attr: ('class', 'rt-article-bg')
+Data     : 
+	
+Start tag: div
+     attr: ('class', 'item-page')
+Data     : 
+				
+		
+		
+		
+		
+															
+				
+				
+						
+					
+Start tag: h3
+     attr: ('style', 'text-align: center;')
+Data     : ACR Dental Artworks, Inc.
+End tag  : h3
+Data     : 
+
+Start tag: h5
+     attr: ('style', 'text-align: center;')
+Start tag: br
+End tag  : br
+Data     :  4951 Goodview Circle, Suite A 
+Start tag: br
+End tag  : br
+Data     : Lee's Summit, MO 64064
+End tag  : h5
+Data     : 
+
+Start tag: h5
+     attr: ('style', 'text-align: center;')
+Data     : Office: (816) 350-8533
+Start tag: br
+End tag  : br
+Data     :  FAX: (816) 350-1578
+End tag  : h5
+Data     :  
+				
+End tag  : div
+Data     : 
+
+End tag  : div
+Data     : 
+
+End tag  : div
+Data     : 
+								
+End tag  : div
+Data     : 
+	                        
+End tag  : div
+Data     : 
+						
+End tag  : div
+Data     : 
+                                                                    
+End tag  : div
+Data     : 
+                                        
+Start tag: div
+     attr: ('class', 'clear')
+End tag  : div
+Data     : 
+                
+End tag  : div
+Data     : 
+            
+End tag  : div
+Data     : 
+																							
+End tag  : div
+Data     : 
+				
+End tag  : div
+Data     : 
+			
+End tag  : div
+Data     : 
+		
+End tag  : div
+Data     : 
+												
+Start tag: div
+     attr: ('id', 'rt-copyright')
+Data     : 
+					
+Start tag: div
+     attr: ('class', 'rt-container')
+Data     : 
+						
+Start tag: div
+     attr: ('class', 'rt-grid-12 rt-alpha rt-omega')
+Data     : 
+    		
+Start tag: div
+     attr: ('class', 'clear')
+End tag  : div
+Data     : 
+		
+Start tag: div
+     attr: ('class', 'rt-block')
+Data     : 
+			Designed by ACR Dental Artworks, Inc.       All rights reserved		
+End tag  : div
+Data     : 
+		
+
+End tag  : div
+Data     : 
+						
+Start tag: div
+     attr: ('class', 'clear')
+End tag  : div
+Data     : 
+					
+End tag  : div
+Data     : 
+				
+End tag  : div
+Data     : 
+												
+								
+Start tag: div
+     attr: ('id', 'totop')
+Data     : 
+				
+Start tag: div
+     attr: ('class', 'rt-grid-12 rt-alpha rt-omega')
+Data     : 
+    		
+Start tag: div
+     attr: ('class', 'clear')
+End tag  : div
+Data     : 
+		
+Start tag: div
+     attr: ('class', 'rt-block')
+Data     : 
+			
+Start tag: a
+     attr: ('href', '#pageTop')
+     attr: ('id', 'gototop')
+     attr: ('class', 'no-click no-print')
+Data     : Scroll to Top
+End tag  : a
+Data     : 
+		
+End tag  : div
+Data     : 
+		
+		
+
+End tag  : div
+Data     : 
+				
+End tag  : div
+Data     : 
+								
+				
+
+Start tag: script
+Data     : 
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-33982853-1', 'acrdentalartworksinc.com');
+  ga('send', 'pageview');
+
+
+End tag  : script
+Data     : 
+	
+End tag  : body
+Data     : 
+
+End tag  : html
+Data     : 
+

@@ -1,0 +1,900 @@
+> /Users/robroy/pybin/wread.py(62)main()
+    <head>
+          <base href="http://acrdentalartworksinc.com/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Home</title>
+  <link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link rel="stylesheet" href="/libraries/gantry/css/grid-12.css" type="text/css" />
+  <link rel="stylesheet" href="/libraries/gantry/css/gantry.css" type="text/css" />
+  <link rel="stylesheet" href="/libraries/gantry/css/joomla.css" type="text/css" />
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu&subset=latin,latin-ext" type="text/css" />
+  <link rel="stylesheet" href="/templates/ca_java_j25/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ca_java_j25/css/typography.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ca_java_j25/css/fusionmenu.css" type="text/css" />
+  <link rel="stylesheet" href="http://acrdentalartworksinc.com/modules/mod_djimageslider/assets/style.css" type="text/css" />
+  <style type="text/css">
+h1, h2 { font-family: 'Ubuntu', 'Helvetica', arial, serif; }
+		/* Styles for DJ Image Slider with module id 87 */
+		#djslider-loader87 {
+			margin: 0 auto;
+			position: relative;
+			height: 425px; 
+			width: 920px;
+		}
+		#djslider87 {
+			margin: 0 auto;
+			position: relative;
+			height: 425px; 
+			width: 920px;
+			display: none;
+		}
+		#slider-container87 {
+			position: absolute;
+			overflow:hidden;
+			left: 0; 
+			top: 0;
+			height: 425px; 
+			width: 920px;			
+		}
+		#djslider87 ul#slider87 {
+			margin: 0 !important;
+			padding: 0 !important;
+			border: 0 !important;
+		}
+		#djslider87 ul#slider87 li {
+			list-style: none outside !important;
+			float: left;
+			margin: 0 !important;
+			border: 0 !important;
+			padding: 0 0px 0px 0 !important;
+			position: relative;
+			height: 425px;
+			width: 920px;
+			background: none;
+			overflow: hidden;
+		}
+		#slider87 li img {
+			width: 920px;
+			height: auto;
+			border: 0 !important;
+			margin: 0 !important;
+		}
+		#slider87 li a img, #slider87 li a:hover img {
+			border: 0 !important;
+		}
+		
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/templates/ca_java_j25/js/gantry-totop.js" type="text/javascript"></script>
+  <script src="/libraries/gantry/js/browser-engines.js" type="text/javascript"></script>
+  <script src="/modules/mod_roknavmenu/themes/fusion/js/fusion.js" type="text/javascript"></script>
+  <script src="/modules/mod_djimageslider/assets/slider.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-33982853-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	            window.addEvent('domready', function() {
+                new Fusion('ul.menutop', {
+                    pill: 0,
+                    effect: 'slide and fade',
+                    opacity:  1,
+                    hideDelay:  500,
+                    centered:  0,
+                    tweakInitial: {'x': -10, 'y': -13},
+                    tweakSubsequent: {'x':  0, 'y':  0},
+                    tweakSizes: {'width': 20, 'height': 20},
+                    menuFx: {duration:  300, transition: Fx.Transitions.Circ.easeOut},
+                    pillFx: {duration:  400, transition: Fx.Transitions.Back.easeOut}
+                });
+            });
+            (function($){ window.addEvent('domready',function(){this.Slider87 = new DJImageSlider({id: '87', slider_type: 0, slide_size: 920, visible_slides: 1, show_buttons: 0, show_arrows: 0, preload: 800},{auto: 0, transition: Fx.Transitions.Cubic.easeInOut, duration: 800, delay: 3800})}); })(document.id);
+  </script>
+        <link  href="//fonts.googleapis.com/css?family=Ubuntu:regular" rel="stylesheet" type="text/css" />
+    </head>
+    <body  class="font-family-ubuntu font-size-is-default menu-type-fusionmenu col12">
+    	<a name="pageTop" id="pageTop"></a>
+    	<div id="page-wraper">
+    		<div id="in-page-wraper">
+    			<div id="in-page-wraper-2">
+			        										<div id="rt-top" >
+						<div class="rt-container">
+							<div class="rt-grid-6 rt-alpha">
+                    <div class="module-outline-1">
+        	<div class="module-outline-2">
+            	<div class="rt-block equalsTopContent">
+            	                	    <div class="module-content">
+            	    	<div class="in-module-content">
+            	    		
+
+<div class="custom"  >
+	<p><a href="http://acrdentalartworksinc.com">
+<p><img src="/images/ACR-Logo.png" alt="ACR Dental Artworks Logo" border="0" /></p>
+</a></p></div>
+            	    	</div>
+            	    </div>
+            	</div>
+            </div>
+        </div>
+        	
+</div>
+<div class="rt-grid-6 rt-omega">
+                    <div class="module-outline-1">
+        	<div class="module-outline-2">
+            	<div class="rt-block equalsTopContent">
+            	                	    <div class="module-content">
+            	    	<div class="in-module-content">
+            	    		
+
+<div class="custom"  >
+	<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="color: #ffffff;">&nbsp;</span></p>
+<p style="text-align: center;"><span style="color: #ffffff; font-size: 18pt;"><strong><span style="font-family: georgia, palatino;">(816) 350-8533</span></strong></span></p>
+<p style="text-align: center;"><span style="color: #ffffff; font-size: 18pt;"><strong><span style="font-family: georgia, palatino;">Lee's summit, MO 64064</span></strong></span></p>
+<p style="text-align: center;"><span style="font-size: 18pt; color: #0000ff;"><a href="mailto:offic@acrdentalartworks.com?subject=Website:" target="_blank"><span style="color: #0000ff;">office@acrdentalartworks.com</span></a></span></p></div>
+            	    	</div>
+            	    </div>
+            	</div>
+            </div>
+        </div>
+        	
+</div>
+							<div class="clear"></div>
+						</div>
+					</div>
+																				<div id="contentBgPattern">
+												<div id="rt-menu">
+							<div class="rt-container">
+								<div class="rt-fusionmenu">
+<div class="nopill">
+<div class="rt-menubar">
+    <ul class="menutop level1 " >
+                        <li class="item435 active root" >
+                            <a class="orphan item bullet" href="http://acrdentalartworksinc.com/"  >
+                    <span>
+                                        Home                                                            </span>
+                </a>
+            
+                    </li>
+                                <li class="item483 parent root" >
+                            <a class="daddy item bullet" href="/our-services.html"  >
+                    <span>
+                                        Our Services                                                            <span class="daddyicon"></span>
+                                        </span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level2" style="width:180px;">
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item484" >
+                            <a class="orphan item bullet" href="/our-services/all-glass.html"  >
+                    <span>
+                                        All Glass                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item485" >
+                            <a class="orphan item bullet" href="/our-services/belleglass-hp.html"  >
+                    <span>
+                                        Belleglass HP                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item486" >
+                            <a class="orphan item bullet" href="/our-services/case-planning.html"  >
+                    <span>
+                                        Case Planning                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item487" >
+                            <a class="orphan item bullet" href="/our-services/ceramics.html"  >
+                    <span>
+                                        Ceramics                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item489" >
+                            <a class="orphan item bullet" href="/our-services/full-cast-crown-and-bridge.html"  >
+                    <span>
+                                        Full Cast Crown and Bridge                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item490" >
+                            <a class="orphan item bullet" href="/our-services/implants.html"  >
+                    <span>
+                                        Implants                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item488" >
+                            <a class="orphan item bullet" href="/our-services/custom-shades.html"  >
+                    <span>
+                                        Custom Shades                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item503" >
+                            <a class="orphan item bullet" href="/our-services/full-partial-dentures.html"  >
+                    <span>
+                                        Full/Partial Dentures                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item496 root" >
+                            <a class="orphan item bullet" href="/the-smile-gallery.html"  >
+                    <span>
+                                        The Smile Gallery                                                            </span>
+                </a>
+            
+                    </li>
+                                <li class="item492 root" >
+                            <a class="orphan item bullet" href="/client-testimonials.html"  >
+                    <span>
+                                        Client Testimonials                                                            </span>
+                </a>
+            
+                    </li>
+                                <li class="item491 parent root" >
+                            <a class="daddy item bullet" href="/about-acr-dental-artworks.html"  >
+                    <span>
+                                        About ACR Dental Artworks                                                            <span class="daddyicon"></span>
+                                        </span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level2" style="width:180px;">
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item493" >
+                            <a class="orphan item bullet" href="/about-acr-dental-artworks/the-acr-difference.html"  >
+                    <span>
+                                        The ACR Difference                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item494" >
+                            <a class="orphan item bullet" href="/about-acr-dental-artworks/acr-management-team.html"  >
+                    <span>
+                                        ACR Management Team                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item504 root" >
+                            <a class="orphan item bullet" href="/contact-us.html"  >
+                    <span>
+                                        Contact Us                                                            </span>
+                </a>
+            
+                    </li>
+                    </ul>
+</div>
+</div>
+</div>
+								<div class="clear"></div>
+							</div>
+						</div>
+																		<div id="rt-feature">
+							<div class="rt-container">
+								<div class="rt-grid-12 rt-alpha rt-omega">
+                    <div class="module-outline-1">
+        	<div class="module-outline-2">
+            	<div class="rt-block">
+            		<div class="equalsFeatureContent">
+            			<div class="in-rt-block">
+		            	    		            	    <div class="module-content">
+		            	    	<div class="in-module-content">
+		            	    		
+	<div id="djslider-loader87" class="djslider-loader">
+    <div id="djslider87" class="djslider">
+        <div id="slider-container87" class="slider-container">
+        	<ul id="slider87">
+          		          			<li>
+            										<img src="/images/banners/ACR-Banner.png" alt="ACR-Banner.png" />
+												
+												
+						
+					</li>
+                          			<li>
+            										<img src="/images/banners/Case-Planning-Detail-18.jpg" alt="Case-Planning-Detail-18.jpg" />
+												
+												
+						
+					</li>
+                          			<li>
+            										<img src="/images/banners/Case-Planning-Detail-19.jpg" alt="Case-Planning-Detail-19.jpg" />
+												
+												
+						
+					</li>
+                          			<li>
+            										<img src="/images/banners/Case-Planning-Detail-21.jpg" alt="Case-Planning-Detail-21.jpg" />
+												
+												
+						
+					</li>
+                          			<li>
+            										<img src="/images/banners/Case-Planning-Detail-22.jpg" alt="Case-Planning-Detail-22.jpg" />
+												
+												
+						
+					</li>
+                          			<li>
+            										<img src="/images/banners/Case-Planning-Detail-23.jpg" alt="Case-Planning-Detail-23.jpg" />
+												
+												
+						
+					</li>
+                          			<li>
+            										<img src="/images/banners/Case-Planning-Detail-24.jpg" alt="Case-Planning-Detail-24.jpg" />
+												
+												
+						
+					</li>
+                          			<li>
+            										<img src="/images/banners/Case-Planning-Detail-25.jpg" alt="Case-Planning-Detail-25.jpg" />
+												
+												
+						
+					</li>
+                          			<li>
+            										<img src="/images/banners/Case-Planning-Detail-27.jpg" alt="Case-Planning-Detail-27.jpg" />
+												
+												
+						
+					</li>
+                          			<li>
+            										<img src="/images/banners/Case-Planning-Detail-29.jpg" alt="Case-Planning-Detail-29.jpg" />
+												
+												
+						
+					</li>
+                          			<li>
+            										<img src="/images/banners/Case-Planning-Detail-32.jpg" alt="Case-Planning-Detail-32.jpg" />
+												
+												
+						
+					</li>
+                          			<li>
+            										<img src="/images/banners/Case-Planning-Detail-33.jpg" alt="Case-Planning-Detail-33.jpg" />
+												
+												
+						
+					</li>
+                          			<li>
+            										<img src="/images/banners/Case-Planning-Detail-34.jpg" alt="Case-Planning-Detail-34.jpg" />
+												
+												
+						
+					</li>
+                          			<li>
+            										<img src="/images/banners/Case-Planning-Detail-36.jpg" alt="Case-Planning-Detail-36.jpg" />
+												
+												
+						
+					</li>
+                          			<li>
+            										<img src="/images/banners/Case-Planning-Detail-37.jpg" alt="Case-Planning-Detail-37.jpg" />
+												
+												
+						
+					</li>
+                          			<li>
+            										<img src="/images/banners/Website-Contact-Image.png" alt="Website-Contact-Image.png" />
+												
+												
+						
+					</li>
+                          			<li>
+            										<img src="/images/banners/white.png" alt="white.png" />
+												
+												
+						
+					</li>
+                        	</ul>
+        </div>
+                    </div>
+	</div>
+	
+	<div style="clear: both"></div>		            	    	</div>
+		            	    </div>
+		            	    </div>
+	            	 </div>
+            	</div>
+            </div>
+        </div>
+        	                <div class="module-outline-1">
+        	<div class="module-outline-2">
+            	<div class="rt-block">
+            		<div class="equalsFeatureContent">
+            			<div class="in-rt-block">
+		            	    		            	    <div class="module-content">
+		            	    	<div class="in-module-content">
+		            	    		
+
+<div class="custom"  >
+	<h4><span class="text"><span style="font-family: Century Gothic; font-size: large;"><span style="font-size: 20px; line-height: 26px;">Are your patients receiving the service and confidence they <br />deserve?<br /><br />Would you like to feel more confident doing complex cosmetic and <br />reconstructive dentistry?<br /><br />Are you frustrated with doing anterior restorations that never quite <br />look as good as what you see in dental journals?<br /><br />A:q
+re everyday cases, big or small difficult to put in?<br /><br />If you have never experienced good dentistry hands-on, then after <br />you have experienced ACR's products you will be sure to ask <br />yourself where have we been all your life? Dentistry can be fun and <br />easy just as long as you have excellent communication with the <br />right team.</span></span></span></h4></div>
+		            	    	</div>
+		            	    </div>
+		            	    </div>
+	            	 </div>
+            	</div>
+            </div>
+        </div>
+        	
+</div>
+								<div class="clear"></div>
+							</div>
+						</div>
+																																			              
+<div id="rt-main" class="mb12">
+                <div class="rt-container">
+                    <div class="rt-grid-12 ">
+                                                <div id="rt-content-top">
+                                                    </div>
+                                                						<div class="rt-block">
+	                        <div id="rt-mainbody">
+								<div class="component-content">
+	                            	<div class="rt-blog ">
+	
+	
+		
+		
+	
+	
+</div>
+								</div>
+	                        </div>
+						</div>
+                                                                    </div>
+                                        <div class="clear"></div>
+                </div>
+            </div>
+																							</div>
+				</div>
+			</div>
+		</div>
+												<div id="rt-copyright">
+					<div class="rt-container">
+						<div class="rt-grid-12 rt-alpha rt-omega">
+    		<div class="clear"></div>
+		<div class="rt-block">
+			Designed by ACR Dental Artworks, Inc.       All rights reserved		</div>
+		
+</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+												
+								<div id="totop">
+				<div class="rt-grid-12 rt-alpha rt-omega">
+    		<div class="clear"></div>
+		<div class="rt-block">
+			<a href="#pageTop" id="gototop" class="no-click no-print">Scroll to Top</a>
+		</div>
+		
+		
+</div>
+				</div>
+								
+				
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-33982853-1', 'acrdentalartworksinc.com');
+  ga('send', 'pageview');
+
+</script>
+	</body>
+</html>
+
+Decl     : DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+Data     : 
+
+Start tag: html
+     attr: ('xmlns', 'http://www.w3.org/1999/xhtml')
+     attr: ('xml:lang', 'en-gb')
+     attr: ('lang', 'en-gb')
+Data     : 
+    
+Start tag: head
+Data     : 
+          
+Start tag: base
+     attr: ('href', 'http://acrdentalartworksinc.com/')
+End tag  : base
+Data     : 
+  
+Start tag: meta
+     attr: ('http-equiv', 'content-type')
+     attr: ('content', 'text/html; charset=utf-8')
+End tag  : meta
+Data     : 
+  
+Start tag: meta
+     attr: ('name', 'generator')
+     attr: ('content', 'Joomla! - Open Source Content Management')
+End tag  : meta
+Data     : 
+  
+Start tag: title
+Data     : Home
+End tag  : title
+Data     : 
+  
+Start tag: link
+     attr: ('href', u'/?format=feed&type=rss')
+     attr: ('rel', 'alternate')
+     attr: ('type', 'application/rss+xml')
+     attr: ('title', 'RSS 2.0')
+End tag  : link
+Data     : 
+  
+Start tag: link
+     attr: ('href', u'/?format=feed&type=atom')
+     attr: ('rel', 'alternate')
+     attr: ('type', 'application/atom+xml')
+     attr: ('title', 'Atom 1.0')
+End tag  : link
+Data     : 
+  
+Start tag: link
+     attr: ('rel', 'stylesheet')
+     attr: ('href', '/libraries/gantry/css/grid-12.css')
+     attr: ('type', 'text/css')
+End tag  : link
+Data     : 
+  
+Start tag: link
+     attr: ('rel', 'stylesheet')
+     attr: ('href', '/libraries/gantry/css/gantry.css')
+     attr: ('type', 'text/css')
+End tag  : link
+Data     : 
+  
+Start tag: link
+     attr: ('rel', 'stylesheet')
+     attr: ('href', '/libraries/gantry/css/joomla.css')
+     attr: ('type', 'text/css')
+End tag  : link
+Data     : 
+  
+Start tag: link
+     attr: ('rel', 'stylesheet')
+     attr: ('href', '//fonts.googleapis.com/css?family=Ubuntu&subset=latin,latin-ext')
+     attr: ('type', 'text/css')
+End tag  : link
+Data     : 
+  
+Start tag: link
+     attr: ('rel', 'stylesheet')
+     attr: ('href', '/templates/ca_java_j25/css/template.css')
+     attr: ('type', 'text/css')
+End tag  : link
+Data     : 
+  
+Start tag: link
+     attr: ('rel', 'stylesheet')
+     attr: ('href', '/templates/ca_java_j25/css/typography.css')
+     attr: ('type', 'text/css')
+End tag  : link
+Data     : 
+  
+Start tag: link
+     attr: ('rel', 'stylesheet')
+     attr: ('href', '/templates/ca_java_j25/css/fusionmenu.css')
+     attr: ('type', 'text/css')
+End tag  : link
+Data     : 
+  
+Start tag: link
+     attr: ('rel', 'stylesheet')
+     attr: ('href', 'http://acrdentalartworksinc.com/modules/mod_djimageslider/assets/style.css')
+     attr: ('type', 'text/css')
+End tag  : link
+Data     : 
+  
+Start tag: style
+     attr: ('type', 'text/css')
+Data     : 
+h1, h2 { font-family: 'Ubuntu', 'Helvetica', arial, serif; }
+		/* Styles for DJ Image Slider with module id 87 */
+		#djslider-loader87 {
+			margin: 0 auto;
+			position: relative;
+			height: 425px; 
+			width: 920px;
+		}
+		#djslider87 {
+			margin: 0 auto;
+			position: relative;
+			height: 425px; 
+			width: 920px;
+			display: none;
+		}
+		#slider-container87 {
+			position: absolute;
+			overflow:hidden;
+			left: 0; 
+			top: 0;
+			height: 425px; 
+			width: 920px;			
+		}
+		#djslider87 ul#slider87 {
+			margin: 0 !important;
+			padding: 0 !important;
+			border: 0 !important;
+		}
+		#djslider87 ul#slider87 li {
+			list-style: none outside !important;
+			float: left;
+			margin: 0 !important;
+			border: 0 !important;
+			padding: 0 0px 0px 0 !important;
+			position: relative;
+			height: 425px;
+			width: 920px;
+			background: none;
+			overflow: hidden;
+		}
+		#slider87 li img {
+			width: 920px;
+			height: auto;
+			border: 0 !important;
+			margin: 0 !important;
+		}
+		#slider87 li a img, #slider87 li a:hover img {
+			border: 0 !important;
+		}
+		
+  
+End tag  : style
+Data     : 
+  
+Start tag: script
+     attr: ('src', '/media/system/js/mootools-core.js')
+     attr: ('type', 'text/javascript')
+End tag  : script
+Data     : 
+  
+Start tag: script
+     attr: ('src', '/media/system/js/core.js')
+     attr: ('type', 'text/javascript')
+End tag  : script
+Data     : 
+  
+Start tag: script
+     attr: ('src', '/media/system/js/caption.js')
+     attr: ('type', 'text/javascript')
+End tag  : script
+Data     : 
+  
+Start tag: script
+     attr: ('src', '/media/system/js/mootools-more.js')
+     attr: ('type', 'text/javascript')
+End tag  : script
+Data     : 
+  
+Start tag: script
+     attr: ('src', '/templates/ca_java_j25/js/gantry-totop.js')
+     attr: ('type', 'text/javascript')
+End tag  : script
+Data     : 
+  
+Start tag: script
+     attr: ('src', '/libraries/gantry/js/browser-engines.js')
+     attr: ('type', 'text/javascript')
+End tag  : script
+Data     : 
+  
+Start tag: script
+     attr: ('src', '/modules/mod_roknavmenu/themes/fusion/js/fusion.js')
+     attr: ('type', 'text/javascript')
+End tag  : script
+Data     : 
+  
+Start tag: script
+     attr: ('src', '/modules/mod_djimageslider/assets/slider.js')
+     attr: ('type', 'text/javascript')
+End tag  : script
+Data     : 
+  
+Start tag: script
+     attr: ('type', 'text/javascript')
+Data     : 
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-33982853-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	            window.addEvent('domready', function() {
+                new Fusion('ul.menutop', {
+                    pill: 0,
+                    effect: 'slide and fade',
+                    opacity:  1,
+                    hideDelay:  500,
+                    centered:  0,
+                    tweakInitial: {'x': -10, 'y': -13},
+                    tweakSubsequent: {'x':  0, 'y':  0},
+                    tweakSizes: {'width': 20, 'height': 20},
+                    menuFx: {duration:  300, transition: Fx.Transitions.Circ.easeOut},
+                    pillFx: {duration:  400, transition: Fx.Transitions.Back.easeOut}
+                });
+            });
+            (function($){ window.addEvent('domready',function(){this.Slider87 = new DJImageSlider({id: '87', slider_type: 0, slide_size: 920, visible_slides: 1, show_buttons: 0, show_arrows: 0, preload: 800},{auto: 0, transition: Fx.Transitions.Cubic.easeInOut, duration: 800, delay: 3800})}); })(document.id);
+  
+End tag  : script
+Data     : 
+        
+Start tag: link
+     attr: ('href', '//fonts.googleapis.com/css?family=Ubuntu:regular')
+     attr: ('rel', 'stylesheet')
+     attr: ('type', 'text/css')
+End tag  : link
+Data     : 
+    
+End tag  : head
+Data     : 
+    
+Start tag: body
+     attr: ('class', 'font-family-ubuntu font-size-is-default menu-type-fusionmenu col12')
+Data     : 
+    	
+Start tag: a
+     attr: ('name', 'pageTop')
+     attr: ('id', 'pageTop')
+End tag  : a
+Data     : 
+    	
+Start tag: div
+     attr: ('id', 'page-wraper')
+Data     : 
+    		
+Start tag: div
+     attr: ('id', 'in-page-wraper')
+Data     : 
+    			
+Start tag: div
+     attr: ('id', 'in-page-wraper-2')
+Data     : 
+			        										
+Start tag: div
+     attr: ('id', 'rt-top')
+Data     : 
+						
+Start tag: div
+     attr: ('class', 'rt-container')
+Data     : 
+							
+Start tag: div
+     attr: ('class', 'rt-grid-6 rt-alpha')
+Data     : 
+                    
+Start tag: div
+     attr: ('class', 'module-outline-1')
+Data     : 
+        	
+Start tag: div
+     attr: ('class', 'module-outline-2')
+Data     : 
+            	
+Start tag: div
+     attr: ('class', 'rt-block equalsTopContent')
+Data     : 
+            	                	    
+Start tag: div
+     attr: ('class', 'module-content')
+Data     : 
+            	    	
+Start tag: div
+     attr: ('class', 'in-module-content')
+Data     : 
+            	    		
+
+
+Start tag: div
+     attr: ('class', 'custom')
+Data     : 
+	
+Start tag: p
+Start tag: a
+     attr: ('href', 'http://acrdentalartworksinc.com')
+Data     : 
+
+Start tag: p
+Start tag: img
+     attr: ('src', '/images/ACR-Logo.png')
+     attr: ('alt', 'ACR Dental Artworks Logo')
+     attr: ('border', '0')
+End tag  : img
+End tag  : p
+Data     : 
+
+End tag  : a
+End tag  : p
+End tag  : div
+Data     : 
+            	    	
+End tag  : div
+Data     : 
+            	    
+End tag  : div
+Data     : 
+            	
+End tag  : div
+Data     : 
+            
+End tag  : div
+Data     : 
+        
+End tag  : div
+Data     : 
+        	
+
+End tag  : div
+Data     : 
+
+Start tag: div
+     attr: ('class', 'rt-grid-6 rt-omega')
+Data     : 
+                    
+Start tag: div
+     attr: ('class', 'module-outline-1')
+Data     : 
+        	
+Start tag: div
+     attr: ('class', 'module-outline-2')
+Data     : 
+            	
+Start tag: div
+     attr: ('class', 'rt-block equalsTopContent')
+Data     : 
+            	                	    
+Start tag: div
+     attr: ('class', 'module-content')
+Data     : 
+            	    	
+Start tag: div
+     attr: ('class', 'in-module-content')
+Data     : 
+            	    		
+
+
+Start tag: div
+     attr: ('class', 'custom')
+Data     : 
+	
+Start tag: p
+     attr: ('style', 'text-align: center;')
