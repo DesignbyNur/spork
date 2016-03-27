@@ -8,3 +8,4 @@ def one() :
 	print "bye"
 
 one()
+two()
