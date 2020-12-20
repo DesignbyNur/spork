@@ -4,7 +4,7 @@ import sys
 import io
 
 def one() :
-	print( "hi")
+	print( "hello world!")
 	print( "bye")
 
 def main() :
