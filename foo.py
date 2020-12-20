@@ -5,7 +5,7 @@ import io
 
 def one() :
 	print( "hello world!")
-	print( "bye")
+	print( "goodye crule world")
 
 def main() :
     one()
